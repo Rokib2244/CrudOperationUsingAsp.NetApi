@@ -1,0 +1,1386 @@
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.AssemblyReference.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.AssemblyInfoInputs.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.AssemblyInfo.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.CoreCompileInputs.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.MvcApplicationPartsAssemblyInfo.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorAssemblyInfo.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorAssemblyInfo.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\appsettings.Development.json
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\appsettings.json
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.StaticWebAssets.xml
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.exe
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.deps.json
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.runtimeconfig.json
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.runtimeconfig.dev.json
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ref\InventorySystem.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\mscorlib.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\netstandard.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.AppContext.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Buffers.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Configuration.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Console.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Core.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Data.Common.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Data.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Drawing.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Globalization.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Memory.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Http.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Mail.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Ping.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Requests.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Security.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Numerics.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ObjectModel.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Claims.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Principal.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Json.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Transactions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ValueTuple.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Web.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Windows.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\WindowsBase.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Views.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Views.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Autofac.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\AutoMapper.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Humanizer.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.AspNetCore.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Sinks.File.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\staticwebassets\InventorySystem.StaticWebAssets.Manifest.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\staticwebassets\InventorySystem.StaticWebAssets.xml
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\scopedcss\bundle\InventorySystem.styles.css
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.TagHelpers.input.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.TagHelpers.output.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorCoreGenerate.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorTargetAssemblyInfo.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorTargetAssemblyInfo.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.Views.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.CopyComplete
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\ref\InventorySystem.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.genruntimeconfig.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Training.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Training.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Data.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Data.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\appsettings.Development.json
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\appsettings.json
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.StaticWebAssets.xml
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.exe
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.deps.json
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.runtimeconfig.json
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.runtimeconfig.dev.json
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ref\InventorySystem.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.pdb
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\mscorlib.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\netstandard.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.AppContext.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Buffers.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Configuration.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Console.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Core.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Data.Common.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Data.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Drawing.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Globalization.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Memory.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Http.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Mail.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Ping.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Requests.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Security.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Numerics.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ObjectModel.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Claims.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Principal.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Json.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Transactions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ValueTuple.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Web.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Windows.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\WindowsBase.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Views.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Views.pdb
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Autofac.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\AutoMapper.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Humanizer.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.AspNetCore.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Sinks.File.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Data.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Training.dll
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Training.pdb
+G:\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Data.pdb
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.AssemblyReference.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.AssemblyInfoInputs.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.AssemblyInfo.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.CoreCompileInputs.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.MvcApplicationPartsAssemblyInfo.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.MvcApplicationPartsAssemblyInfo.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorAssemblyInfo.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorAssemblyInfo.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\staticwebassets\InventorySystem.StaticWebAssets.Manifest.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\staticwebassets\InventorySystem.StaticWebAssets.xml
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\scopedcss\bundle\InventorySystem.styles.css
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.TagHelpers.input.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.TagHelpers.output.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorCoreGenerate.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorTargetAssemblyInfo.cache
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorTargetAssemblyInfo.cs
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.Views.pdb
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.CopyComplete
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.dll
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\ref\InventorySystem.dll
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.pdb
+G:\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.genruntimeconfig.cache
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\appsettings.Development.json
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\appsettings.json
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.StaticWebAssets.xml
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.exe
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.deps.json
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.runtimeconfig.json
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.runtimeconfig.dev.json
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ref\InventorySystem.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.pdb
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\mscorlib.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\netstandard.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.AppContext.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Buffers.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Configuration.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Console.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Core.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Data.Common.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Data.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Drawing.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Globalization.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Memory.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Http.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Mail.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Ping.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Requests.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Security.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Numerics.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ObjectModel.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Claims.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Principal.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.Json.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Transactions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.ValueTuple.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Web.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Windows.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\WindowsBase.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Views.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Views.pdb
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Autofac.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\AutoMapper.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Humanizer.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.AspNetCore.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\Serilog.Sinks.File.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.Convention.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Data.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Training.dll
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Training.pdb
+H:\2nd try\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Data.pdb
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.AssemblyReference.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.AssemblyInfoInputs.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.AssemblyInfo.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.CoreCompileInputs.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.MvcApplicationPartsAssemblyInfo.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.MvcApplicationPartsAssemblyInfo.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorAssemblyInfo.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorAssemblyInfo.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\staticwebassets\InventorySystem.StaticWebAssets.Manifest.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\staticwebassets\InventorySystem.StaticWebAssets.xml
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\scopedcss\bundle\InventorySystem.styles.css
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.TagHelpers.input.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.TagHelpers.output.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorCoreGenerate.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorTargetAssemblyInfo.cache
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.RazorTargetAssemblyInfo.cs
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.Views.pdb
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.CopyComplete
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.dll
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\ref\InventorySystem.dll
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.pdb
+H:\2nd try\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.genruntimeconfig.cache

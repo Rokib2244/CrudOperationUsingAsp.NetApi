@@ -1,0 +1,54 @@
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.deps.json
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.runtimeconfig.json
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.runtimeconfig.dev.json
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\ref\InventorySystem.Training.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.AssemblyReference.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfoInputs.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfo.cs
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CoreCompileInputs.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\ref\InventorySystem.Training.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.genruntimeconfig.cache
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.dll
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.pdb
+E:\Practice of Full CRUD\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CopyComplete
+G:\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.deps.json
+G:\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.runtimeconfig.json
+G:\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.runtimeconfig.dev.json
+G:\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.dll
+G:\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\ref\InventorySystem.Training.dll
+G:\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.pdb
+G:\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.dll
+G:\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.pdb
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.AssemblyReference.cache
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.GeneratedMSBuildEditorConfig.editorconfig
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfoInputs.cache
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfo.cs
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CoreCompileInputs.cache
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CopyComplete
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.dll
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\ref\InventorySystem.Training.dll
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.pdb
+G:\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.genruntimeconfig.cache
+H:\2nd try\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.deps.json
+H:\2nd try\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.runtimeconfig.json
+H:\2nd try\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.runtimeconfig.dev.json
+H:\2nd try\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.dll
+H:\2nd try\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\ref\InventorySystem.Training.dll
+H:\2nd try\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.pdb
+H:\2nd try\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.dll
+H:\2nd try\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.pdb
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.AssemblyReference.cache
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.GeneratedMSBuildEditorConfig.editorconfig
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfoInputs.cache
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfo.cs
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CoreCompileInputs.cache
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CopyComplete
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.dll
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\ref\InventorySystem.Training.dll
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.pdb
+H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.genruntimeconfig.cache
