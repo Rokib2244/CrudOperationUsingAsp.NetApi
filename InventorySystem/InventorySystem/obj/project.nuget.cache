@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "et7JEeK+bbu6sDppuUg0+h/MF+JfzTUQjFZcedXW0Xmnyvvl0nxMRlo0MUj3YUhUcKMscUGuMFyxKj+w1BuZTA==",
+  "dgSpecHash": "qUSkR1DpKScAMTpziAPyQXiB4TQ69BRU9dcLSLxjYkRqbk3VOdYUwHeIYVP24ln+ZA4KsfqamRWg81GICo9WQg==",
   "success": true,
-  "projectFilePath": "H:\\2nd try\\InventorySystem\\InventorySystem\\InventorySystem.csproj",
+  "projectFilePath": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem\\InventorySystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

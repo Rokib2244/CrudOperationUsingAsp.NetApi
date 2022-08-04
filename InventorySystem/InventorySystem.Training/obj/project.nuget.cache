@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6O7RuEZbm0e7nTlrt/iFkGUGYM0Cz74n4tDeN2XJzNwQjMauwVmhdYF0PtLoFThHmloeNKfWlUc8lLPup73siw==",
+  "dgSpecHash": "JPv+lhGmUNDLncLcwhmUTi8l1/9BNx49U0ukrQTj+3VCl8gRb193CTcL5bLbCKVTrjI3JaqZC8fp76JvRE0r+w==",
   "success": true,
-  "projectFilePath": "H:\\2nd try\\InventorySystem\\InventorySystem.Training\\InventorySystem.Training.csproj",
+  "projectFilePath": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Training\\InventorySystem.Training.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",

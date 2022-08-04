@@ -6209,11 +6209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\2nd try\\InventorySystem\\InventorySystem.Training\\InventorySystem.Training.csproj",
+      "projectUniqueName": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Training\\InventorySystem.Training.csproj",
       "projectName": "InventorySystem.Training",
-      "projectPath": "H:\\2nd try\\InventorySystem\\InventorySystem.Training\\InventorySystem.Training.csproj",
+      "projectPath": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Training\\InventorySystem.Training.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "H:\\2nd try\\InventorySystem\\InventorySystem.Training\\obj\\",
+      "outputPath": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Training\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6230,8 +6230,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "H:\\2nd try\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj": {
-              "projectPath": "H:\\2nd try\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj"
+            "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj": {
+              "projectPath": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj"
             }
           }
         }

@@ -3,6 +3,8 @@ using Autofac.Extensions.DependencyInjection;
 using InventorySystem.Data;
 using InventorySystem.Training;
 using InventorySystem.Training.Contexts;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -13,11 +15,15 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
+using InventorySystem.Membership.BusinessObjects;
+using InventorySystem.Membership;
 
 namespace InventorySystem.Api
 {
@@ -46,11 +52,13 @@ namespace InventorySystem.Api
             var connectionInfo = GetConnectionStringAndAssemblyName();
             builder
                 .RegisterModule(new TrainingModule(connectionInfo.connectionString, connectionInfo.migrationAssemblyName));
+            builder
+                .RegisterModule(new MembershipModule(connectionInfo.connectionString, connectionInfo.migrationAssemblyName));
 
             builder
                .RegisterModule(new WebModule(connectionInfo.connectionString, connectionInfo.migrationAssemblyName));
-            //builder
-            //    .RegisterModule(new WebModule());
+            builder
+                .RegisterModule(new ApiModule());
 
         }
         private (string connectionString, string migrationAssemblyName) GetConnectionStringAndAssemblyName()
@@ -78,7 +86,35 @@ namespace InventorySystem.Api
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             services.AddControllers();
+            services.AddAuthentication()
+              .AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, x =>
+              {
+                  x.RequireHttpsMetadata = false;
+                  x.SaveToken = true;
+                  x.TokenValidationParameters = new TokenValidationParameters
+                  {
+                      ValidateIssuerSigningKey = true,
+                      IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(Configuration["Jwt:Key"])),
+                      ValidateIssuer = true,
+                      ValidateAudience = true,
+                      ValidIssuer = Configuration["Jwt:Issuer"],
+                      ValidAudience = Configuration["Jwt:Audience"]
+                  };
+              });
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("AccessPermission", policy =>
+                {
+                    policy.AuthenticationSchemes.Clear();
+                    policy.AuthenticationSchemes.Add(JwtBearerDefaults.AuthenticationScheme);
+                    policy.RequireAuthenticatedUser();
+                    policy.Requirements.Add(new ApiRequirement());
+                });
+            });
+
+            services.AddSingleton<IAuthorizationHandler, ApiRequirementHandler>();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            services.AddHttpContextAccessor();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "InventorySystem.Api", Version = "v1" });

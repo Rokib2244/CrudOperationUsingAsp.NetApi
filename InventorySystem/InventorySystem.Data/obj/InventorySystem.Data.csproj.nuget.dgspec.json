@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\2nd try\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj": {}
+    "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj": {}
   },
   "projects": {
-    "H:\\2nd try\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj": {
+    "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\2nd try\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj",
+        "projectUniqueName": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj",
         "projectName": "InventorySystem.Data",
-        "projectPath": "H:\\2nd try\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj",
+        "projectPath": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Data\\InventorySystem.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "H:\\2nd try\\InventorySystem\\InventorySystem.Data\\obj\\",
+        "outputPath": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

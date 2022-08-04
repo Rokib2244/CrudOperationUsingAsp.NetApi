@@ -1,0 +1,12 @@
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\bin\Debug\net5.0\InventorySystem.Membership.deps.json
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\bin\Debug\net5.0\InventorySystem.Membership.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\bin\Debug\net5.0\ref\InventorySystem.Membership.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\bin\Debug\net5.0\InventorySystem.Membership.pdb
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\obj\Debug\net5.0\InventorySystem.Membership.csproj.AssemblyReference.cache
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\obj\Debug\net5.0\InventorySystem.Membership.GeneratedMSBuildEditorConfig.editorconfig
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\obj\Debug\net5.0\InventorySystem.Membership.AssemblyInfoInputs.cache
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\obj\Debug\net5.0\InventorySystem.Membership.AssemblyInfo.cs
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\obj\Debug\net5.0\InventorySystem.Membership.csproj.CoreCompileInputs.cache
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\obj\Debug\net5.0\InventorySystem.Membership.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\obj\Debug\net5.0\ref\InventorySystem.Membership.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Membership\obj\Debug\net5.0\InventorySystem.Membership.pdb

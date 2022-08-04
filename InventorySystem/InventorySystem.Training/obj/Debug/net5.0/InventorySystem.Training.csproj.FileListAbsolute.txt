@@ -52,3 +52,21 @@ H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySy
 H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\ref\InventorySystem.Training.dll
 H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.pdb
 H:\2nd try\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.genruntimeconfig.cache
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.deps.json
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.runtimeconfig.json
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.runtimeconfig.dev.json
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\ref\InventorySystem.Training.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Training.pdb
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\bin\Debug\net5.0\InventorySystem.Data.pdb
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.AssemblyReference.cache
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.GeneratedMSBuildEditorConfig.editorconfig
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfoInputs.cache
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.AssemblyInfo.cs
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CoreCompileInputs.cache
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.csproj.CopyComplete
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\ref\InventorySystem.Training.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.pdb
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem.Training\obj\Debug\net5.0\InventorySystem.Training.genruntimeconfig.cache
