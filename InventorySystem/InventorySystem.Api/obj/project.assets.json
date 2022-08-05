@@ -2555,6 +2555,7 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
           "Autofac": "6.3.0",
           "Autofac.Extensions.DependencyInjection": "7.2.0",
+          "InventorySystem.Membership": "1.0.0",
           "InventorySystem.Training": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.8",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.8",

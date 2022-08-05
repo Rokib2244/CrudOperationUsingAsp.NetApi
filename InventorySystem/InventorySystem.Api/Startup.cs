@@ -24,6 +24,9 @@ using System.Text;
 using System.Threading.Tasks;
 using InventorySystem.Membership.BusinessObjects;
 using InventorySystem.Membership;
+using InventorySystem.Membership.Contexts;
+using InventorySystem.Membership.Entities;
+using InventorySystem.Membership.Services;
 
 namespace InventorySystem.Api
 {
@@ -82,8 +85,16 @@ namespace InventorySystem.Api
                 options.UseSqlServer(connectionInfo.connectionString,
                     b => b.MigrationsAssembly(connectionInfo.migrationAssemblyName)));
 
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+            //services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            //    .AddEntityFrameworkStores<ApplicationDbContext>();
+            services
+               .AddIdentity<ApplicationUser, Role>()
+               .AddEntityFrameworkStores<ApplicationDbContext>()
+               .AddUserManager<UserManager>()
+               .AddRoleManager<RoleManager>()
+               .AddSignInManager<SignInManager>()
+               .AddDefaultUI()
+               .AddDefaultTokenProviders();
 
             services.AddControllers();
             services.AddAuthentication()

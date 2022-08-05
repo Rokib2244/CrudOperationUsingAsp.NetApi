@@ -1470,7 +1470,6 @@ G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
-G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
@@ -1494,11 +1493,9 @@ G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
-G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
-G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
@@ -1846,3 +1843,8 @@ G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\obj\Debug\net5.0
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\obj\Debug\net5.0\ref\InventorySystem.dll
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.pdb
 G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.genruntimeconfig.cache
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Membership.dll
+G:\CrudOperationUsingAsp.NetApi\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.Membership.pdb

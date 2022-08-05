@@ -1,6 +1,8 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using InventorySystem.Data;
+using InventorySystem.Membership;
+using InventorySystem.Membership.Contexts;
 using InventorySystem.Training;
 using InventorySystem.Training.Contexts;
 using Microsoft.AspNetCore.Builder;
@@ -44,7 +46,8 @@ namespace InventorySystem
             builder
                 .RegisterModule(new TrainingModule(connectionInfo.connectionString, connectionInfo.migrationAssemblyName));
 
-
+            builder.RegisterModule(new MembershipModule(connectionInfo.connectionString,
+               connectionInfo.migrationAssemblyName));
             builder
                 .RegisterModule(new WebModule(connectionInfo.connectionString, connectionInfo.migrationAssemblyName));
 
@@ -73,8 +76,8 @@ namespace InventorySystem
                 options.UseSqlServer(connectionInfo.connectionString,
                     b => b.MigrationsAssembly(connectionInfo.migrationAssemblyName)));
 
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+            //services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            //    .AddEntityFrameworkStores<ApplicationDbContext>();
 
             services.ConfigureApplicationCookie(options =>
             {

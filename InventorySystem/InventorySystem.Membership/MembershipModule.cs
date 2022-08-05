@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using InventorySystem.Membership.Contexts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +27,14 @@ namespace InventorySystem.Membership
             //    .WithParameter("connectionString", _connectionString)
             //    .WithParameter("migrationAssemblyName", _migrationAssemblyName)
             //    .InstancePerLifetimeScope();
+            builder.RegisterType<ApplicationDbContext>().AsSelf()
+               .WithParameter("connectionString", _connectionString)
+               .WithParameter("migrationAssemblyName", _migrationAssemblyName)
+               .InstancePerLifetimeScope();
+            builder.RegisterType<ApplicationDbContext>().As<IApplicationDbContext>()
+                .WithParameter("connectionString", _connectionString)
+                .WithParameter("migrationAssemblyName", _migrationAssemblyName)
+                .InstancePerLifetimeScope();
 
             base.Load(builder);
         }

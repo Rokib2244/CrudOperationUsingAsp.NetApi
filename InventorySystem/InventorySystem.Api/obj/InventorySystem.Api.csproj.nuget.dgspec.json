@@ -385,6 +385,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Membership\\InventorySystem.Membership.csproj": {
+                "projectPath": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Membership\\InventorySystem.Membership.csproj"
+              },
               "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Training\\InventorySystem.Training.csproj": {
                 "projectPath": "G:\\CrudOperationUsingAsp.NetApi\\InventorySystem\\InventorySystem.Training\\InventorySystem.Training.csproj"
               }
